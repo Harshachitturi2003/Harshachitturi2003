@@ -18,6 +18,7 @@ Welcome to my GitHub profile! I'm a **Python Full-Stack Developer (Fresher)** ac
 **Backend:**
 
 * Python
+* Java
 * Flask
 * REST APIs
 
